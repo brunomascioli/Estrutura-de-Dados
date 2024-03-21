@@ -1,0 +1,1 @@
+Este repositório é dedicado à disciplina de Estrutura de Dados da minha faculdade. Aqui você encontrará materiais relacionados ao estudo e prática de diversos tipos de estruturas de dados, algoritmos associados e implementações.
